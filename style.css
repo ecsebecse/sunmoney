@@ -26,3 +26,8 @@ footer{
     height: 15vh;
     bottom: 0;
 }
+
+footer h2{
+    position: absolute;
+    left: 45%;
+}
