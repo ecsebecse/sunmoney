@@ -12,6 +12,12 @@ header, footer{
     color: white;
 }
 
+header h2{
+    position: absolute;
+    margin-top: 20px;
+    left: 20%;
+}
+
 header{
     height: 10vh;
 }
